@@ -1,5 +1,6 @@
 # shared-grocery-list
 This is a small challenge project for friends and freaks. 
+Fork this repo and start coding ❤️
 
 ## Goal
 Build a full stack app to create and edit grocery lists. The list should be sharable.
